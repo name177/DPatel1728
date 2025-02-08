@@ -1,3 +1,13 @@
+@media (max-width: 600px) {
+    .header_text {
+        font-size: 2em;
+        padding: 10px;
+    }
+
+    .gif_container img {
+        max-width: 80%;
+    }
+}
 body {
     display: flex;
     justify-content: center;
